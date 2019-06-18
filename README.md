@@ -1,7 +1,7 @@
 # Java
 
-I'm the mirracle!,
+I'm the miracle!,
 
 and
 
-Yes, I am begin to learn Java. :) :)
+Yes, I am begin to learn Java. :) :) :)
